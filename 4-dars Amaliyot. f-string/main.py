@@ -1,7 +1,7 @@
 """
 Created on Mon Oct 11 18:03:20 2021
 
-@author: Nurbek Po'latov'
+@author: Nurbek Po'latov
 """
 #1-vazifa
 
