@@ -26,5 +26,14 @@ sonlar[4] = sonlar[1] + 87
 del sonlar[3]
 print(sonlar)
 
+#5-vazifa
 
+t_shaxslar = ["mirzo ulug'bek" , "alisher navoiy" , "amir temur" ]
+z_shaxslar = ["anvar narzullayev" , "bill gets" , "elon musk"]
+
+#6-vazifa
+
+print(f"\nMen tarixiy shaxslardan {t_shaxslar.pop(1).title()} bilan,\n\
+zamonaviy shaxslardan esa {z_shaxslar.pop(0).title()} bilan\n\
+suhbat qilishni istar edim\n")
 
