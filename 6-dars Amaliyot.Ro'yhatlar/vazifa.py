@@ -37,3 +37,26 @@ print(f"\nMen tarixiy shaxslardan {t_shaxslar.pop(1).title()} bilan,\n\
 zamonaviy shaxslardan esa {z_shaxslar.pop(0).title()} bilan\n\
 suhbat qilishni istar edim\n")
 
+#7-vazifa
+
+friends = []
+friends.append('Nurbek')
+friends.append('Asadbek')
+friends.append('Otabek')
+friends.append('Davron')
+friends.append('Ali')
+print(friends)
+
+#8-vazifa
+
+friends.remove('Davron')
+friends.remove('Ali')
+print(friends)
+
+#9-vazifa
+
+friends.append('Mansurxon')
+friends.insert(0, 'Alisher')
+friends.insert(2, 'Xusan')
+print(friends)
+
