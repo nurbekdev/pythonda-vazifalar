@@ -6,7 +6,7 @@
  
  o'qituvhi: Anvar Narzulayev https://github.com/anvarnarz
  
- @author: Nurbek Po'latov
+ @author: ('Nurbek Po'latov')
  
  telegram: https://t.me/nurbekh2oo4
  
